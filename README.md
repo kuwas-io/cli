@@ -1,2 +1,0 @@
-# cli
-cli » cores » go
